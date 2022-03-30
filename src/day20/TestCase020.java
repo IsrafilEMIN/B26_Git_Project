@@ -9,4 +9,8 @@ public class TestCase020 {
     // are they clickable
 
     // testing for manus
+
+    // testing the responses of the pages
+
+
 }
